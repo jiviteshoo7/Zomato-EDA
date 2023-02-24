@@ -9,8 +9,7 @@ The code for this analysis is written in Python and uses several popular librari
 
 # Analysis
 The analysis begins with data cleaning and preparation, which involves removing duplicates, handling missing values, and creating new features from existing ones. The exploratory data analysis then follows, where we look at the distribution of various features, the correlation between different variables, and the most popular cuisines, restaurants, and locations.
-
-# Finally, we use data visualization to showcase our findings and insights from the analysis, including maps, bar charts, and scatterplots. We also provide recommendations for restaurants to visit in different cities based on ratings, cuisine, and price.
+Finally, we use data visualization to showcase our findings and insights from the analysis, including maps, bar charts, and scatterplots. We also provide recommendations for restaurants to visit in different cities based on ratings, cuisine, and price.
 
 # Conclusion
 Through this analysis, we have gained valuable insights into the global restaurant industry and how it varies by location and cuisine. We hope that this analysis will be useful to anyone interested in exploring restaurant data or looking for recommendations on where to eat around the world.
